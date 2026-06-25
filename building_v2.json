@@ -1,0 +1,659 @@
+{
+  "root": {
+    "parent": "none",
+    "resource": "root.glb",
+    "template": "T_root.glb",
+    "Room 1": {
+      "resource": "Room 1.glb",
+      "resource_type": "door"
+    },
+    "Room 2": {
+      "resource": "Room 2.glb",
+      "resource_type": "door"
+    }
+  },
+  "Room 1": {
+    "parent": "root",
+    "resource": "Room 1.glb",
+    "template": "T_small.glb",
+    "Luna 001 (1)": {
+      "resource": "/Room 1/Luna 001 (1).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[14.804,12.597,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #0 Luna 001 (1)"
+    },
+    "Luna 001 (10)": {
+      "resource": "/Room 1/Luna 001 (10).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[-14.797,-13.157,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #1 Luna 001 (10)"
+    },
+    "Luna 001 (11)": {
+      "resource": "/Room 1/Luna 001 (11).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[3.659,14.841,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #2 Luna 001 (11)"
+    },
+    "Luna 001 (12)": {
+      "resource": "/Room 1/Luna 001 (12).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[-12.733,14.841,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #3 Luna 001 (12)"
+    },
+    "Luna 001 (13)": {
+      "resource": "/Room 1/Luna 001 (13).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[12.676,-14.838,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #4 Luna 001 (13)"
+    },
+    "Luna 001 (14)": {
+      "resource": "/Room 1/Luna 001 (14).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[-3.569,-14.838,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #5 Luna 001 (14)"
+    },
+    "Luna 001 (15)": {
+      "resource": "/Room 1/Luna 001 (15).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[14.804,9.442,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #6 Luna 001 (15)"
+    },
+    "Luna 001 (16)": {
+      "resource": "/Room 1/Luna 001 (16).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[-14.797,-10.157,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #7 Luna 001 (16)"
+    },
+    "Luna 001 (17)": {
+      "resource": "/Room 1/Luna 001 (17).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[14.804,6.287,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #8 Luna 001 (17)"
+    },
+    "Luna 001 (18)": {
+      "resource": "/Room 1/Luna 001 (18).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[-14.797,-7.157,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #9 Luna 001 (18)"
+    },
+    "Luna 001 (19)": {
+      "resource": "/Room 1/Luna 001 (19).jpg",
+      "resource_type": "image",
+      "width": "84.88",
+      "height": "120.00",
+      "location": "[6.690,14.841,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #10 Luna 001 (19)"
+    },
+    "Luna 001 (2)": {
+      "resource": "/Room 1/Luna 001 (2).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[-9.630,14.841,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #11 Luna 001 (2)"
+    },
+    "Luna 001 (20)": {
+      "resource": "/Room 1/Luna 001 (20).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[9.573,-14.838,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #12 Luna 001 (20)"
+    },
+    "Luna 001 (21)": {
+      "resource": "/Room 1/Luna 001 (21).jpg",
+      "resource_type": "image",
+      "width": "84.88",
+      "height": "120.00",
+      "location": "[-6.453,-14.838,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #13 Luna 001 (21)"
+    },
+    "Luna 001 (22)": {
+      "resource": "/Room 1/Luna 001 (22).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[14.804,3.132,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #14 Luna 001 (22)"
+    },
+    "Luna 001 (23)": {
+      "resource": "/Room 1/Luna 001 (23).jpg",
+      "resource_type": "image",
+      "width": "84.88",
+      "height": "120.00",
+      "location": "[-14.797,-4.523,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #15 Luna 001 (23)"
+    },
+    "Luna 001 (24)": {
+      "resource": "/Room 1/Luna 001 (24).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[14.804,-0.023,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #16 Luna 001 (24)"
+    },
+    "Luna 001 (25)": {
+      "resource": "/Room 1/Luna 001 (25).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[-14.797,-1.889,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #17 Luna 001 (25)"
+    },
+    "Luna 001 (26)": {
+      "resource": "/Room 1/Luna 001 (26).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[9.720,14.841,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #18 Luna 001 (26)"
+    },
+    "Luna 001 (27)": {
+      "resource": "/Room 1/Luna 001 (27).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[-6.526,14.841,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #19 Luna 001 (27)"
+    },
+    "Luna 001 (28)": {
+      "resource": "/Room 1/Luna 001 (28).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.88",
+      "location": "[6.469,-14.838,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #20 Luna 001 (28)"
+    },
+    "Luna 001 (29)": {
+      "resource": "/Room 1/Luna 001 (29).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.88",
+      "location": "[-9.337,-14.838,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #21 Luna 001 (29)"
+    },
+    "Luna 001 (3)": {
+      "resource": "/Room 1/Luna 001 (3).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[14.804,-3.178,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #22 Luna 001 (3)"
+    },
+    "Luna 001 (30)": {
+      "resource": "/Room 1/Luna 001 (30).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.88",
+      "location": "[-14.797,1.111,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #23 Luna 001 (30)"
+    },
+    "Luna 001 (31)": {
+      "resource": "/Room 1/Luna 001 (31).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[14.804,-6.333,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #24 Luna 001 (31)"
+    },
+    "Luna 001 (32)": {
+      "resource": "/Room 1/Luna 001 (32).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[-14.797,4.111,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #25 Luna 001 (32)"
+    },
+    "Luna 001 (33)": {
+      "resource": "/Room 1/Luna 001 (33).jpg",
+      "resource_type": "image",
+      "width": "84.77",
+      "height": "120.00",
+      "location": "[12.750,14.841,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #26 Luna 001 (33)"
+    },
+    "Luna 001 (34)": {
+      "resource": "/Room 1/Luna 001 (34).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[-3.423,14.841,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #27 Luna 001 (34)"
+    },
+    "Luna 001 (35)": {
+      "resource": "/Room 1/Luna 001 (35).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[3.366,-14.838,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #28 Luna 001 (35)"
+    },
+    "Luna 001 (4)": {
+      "resource": "/Room 1/Luna 001 (4).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.88",
+      "location": "[-12.587,-14.838,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #29 Luna 001 (4)"
+    },
+    "Luna 001 (5)": {
+      "resource": "/Room 1/Luna 001 (5).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[14.804,-9.488,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #30 Luna 001 (5)"
+    },
+    "Luna 001 (6)": {
+      "resource": "/Room 1/Luna 001 (6).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[-14.797,7.111,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #31 Luna 001 (6)"
+    },
+    "Luna 001 (7)": {
+      "resource": "/Room 1/Luna 001 (7).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[14.804,-12.643,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #32 Luna 001 (7)"
+    },
+    "Luna 001 (8)": {
+      "resource": "/Room 1/Luna 001 (8).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[-14.797,10.111,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #33 Luna 001 (8)"
+    },
+    "Luna 001 (9)": {
+      "resource": "/Room 1/Luna 001 (9).jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[-14.797,13.111,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #34 Luna 001 (9)"
+    },
+    "root": {
+      "resource": "root.glb",
+      "resource_type": "door"
+    }
+  },
+  "Room 2": {
+    "parent": "root",
+    "resource": "Room 2.glb",
+    "template": "T_small.glb",
+    "Wong Wing_202606250733_Page_1": {
+      "resource": "/Room 2/Wong Wing_202606250733_Page_1.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[14.804,12.524,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #35 Luna 01"
+    },
+    "Wong Wing_202606250733_Page_2": {
+      "resource": "/Room 2/Wong Wing_202606250733_Page_2.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[-14.797,-12.424,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #36 Luna 02"
+    },
+    "Wong Wing_202606250733_Page_3": {
+      "resource": "/Room 2/Wong Wing_202606250733_Page_3.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[3.512,14.841,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #37 Luna 03"
+    },
+    "Wong Wing_202606250733_Page_4": {
+      "resource": "/Room 2/Wong Wing_202606250733_Page_4.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[-12.733,14.841,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #38 Luna 04"
+    },
+    "Wong Wing_202606250733_Page_5": {
+      "resource": "/Room 2/Wong Wing_202606250733_Page_5.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[12.676,-14.838,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #39 Luna 05"
+    },
+    "Wong Wing_202606250734_Page_1": {
+      "resource": "/Room 2/Wong Wing_202606250734_Page_1.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.88",
+      "location": "[-3.423,-14.838,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #40 Luna 06"
+    },
+    "Wong Wing_202606250734_Page_2": {
+      "resource": "/Room 2/Wong Wing_202606250734_Page_2.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.88",
+      "location": "[14.804,9.296,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #41 Luna 07"
+    },
+    "Wong Wing_202606250734_Page_3": {
+      "resource": "/Room 2/Wong Wing_202606250734_Page_3.jpg",
+      "resource_type": "image",
+      "width": "84.77",
+      "height": "120.00",
+      "location": "[-14.797,-9.416,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #42 Luna 08"
+    },
+    "Wong Wing_202606250734_Page_4": {
+      "resource": "/Room 2/Wong Wing_202606250734_Page_4.jpg",
+      "resource_type": "image",
+      "width": "84.88",
+      "height": "120.00",
+      "location": "[14.804,6.434,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #43 Luna 09"
+    },
+    "Wong Wing_202606250734_Page_5": {
+      "resource": "/Room 2/Wong Wing_202606250734_Page_5.jpg",
+      "resource_type": "image",
+      "width": "84.88",
+      "height": "120.00",
+      "location": "[-14.797,-6.774,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #44 Luna 10"
+    },
+    "Wong Wing_202606250734_Page_6": {
+      "resource": "/Room 2/Wong Wing_202606250734_Page_6.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.88",
+      "location": "[6.762,14.841,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #45 Luna 11"
+    },
+    "Wong Wing_202606250736_Page_1": {
+      "resource": "/Room 2/Wong Wing_202606250736_Page_1.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.88",
+      "location": "[-9.630,14.841,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #46 Luna 12"
+    },
+    "Wong Wing_202606250736_Page_2": {
+      "resource": "/Room 2/Wong Wing_202606250736_Page_2.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[9.573,-14.838,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #47 Luna 13"
+    },
+    "Wong Wing_202606250736_Page_3": {
+      "resource": "/Room 2/Wong Wing_202606250736_Page_3.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[-6.526,-14.838,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #48 Luna 14"
+    },
+    "Wong Wing_202606250736_Page_4": {
+      "resource": "/Room 2/Wong Wing_202606250736_Page_4.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[14.804,3.571,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #49 Luna 15"
+    },
+    "Wong Wing_202606250736_Page_5": {
+      "resource": "/Room 2/Wong Wing_202606250736_Page_5.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[-14.797,-3.765,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #50 Luna 16"
+    },
+    "Wong Wing_202606251123_Page_01": {
+      "resource": "/Room 2/Wong Wing_202606251123_Page_01.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.88",
+      "location": "[14.804,0.343,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #51 Luna 17"
+    },
+    "Wong Wing_202606251123_Page_02": {
+      "resource": "/Room 2/Wong Wing_202606251123_Page_02.jpg",
+      "resource_type": "image",
+      "width": "84.88",
+      "height": "120.00",
+      "location": "[-14.797,-0.756,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #52 Luna 18"
+    },
+    "Wong Wing_202606251123_Page_03": {
+      "resource": "/Room 2/Wong Wing_202606251123_Page_03.jpg",
+      "resource_type": "image",
+      "width": "84.88",
+      "height": "120.00",
+      "location": "[9.646,14.841,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #53 Luna 19"
+    },
+    "Wong Wing_202606251123_Page_04": {
+      "resource": "/Room 2/Wong Wing_202606251123_Page_04.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[-6.526,14.841,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #54 Luna 20"
+    },
+    "Wong Wing_202606251123_Page_05": {
+      "resource": "/Room 2/Wong Wing_202606251123_Page_05.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[6.469,-14.838,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #55 Luna 21"
+    },
+    "Wong Wing_202606251123_Page_06": {
+      "resource": "/Room 2/Wong Wing_202606251123_Page_06.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.88",
+      "location": "[-9.630,-14.838,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #56 Luna 22"
+    },
+    "Wong Wing_202606251123_Page_07": {
+      "resource": "/Room 2/Wong Wing_202606251123_Page_07.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.88",
+      "location": "[14.804,-2.885,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #57 Luna 23"
+    },
+    "Wong Wing_202606251123_Page_08": {
+      "resource": "/Room 2/Wong Wing_202606251123_Page_08.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.88",
+      "location": "[-14.797,2.253,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #58 Luna 24"
+    },
+    "Wong Wing_202606251123_Page_09": {
+      "resource": "/Room 2/Wong Wing_202606251123_Page_09.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.88",
+      "location": "[14.804,-6.114,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #59 Luna 25"
+    },
+    "Wong Wing_202606251123_Page_10": {
+      "resource": "/Room 2/Wong Wing_202606251123_Page_10.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[-14.797,5.628,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #60 Luna 26"
+    },
+    "Wong Wing_202606251123_Page_11": {
+      "resource": "/Room 2/Wong Wing_202606251123_Page_11.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[12.530,14.841,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #61 Luna 27"
+    },
+    "Wong Wing_202606251209_Page_1": {
+      "resource": "/Room 2/Wong Wing_202606251209_Page_1.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[-3.423,14.841,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #62 Luna 28"
+    },
+    "Wong Wing_202606251209_Page_2": {
+      "resource": "/Room 2/Wong Wing_202606251209_Page_2.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[3.366,-14.838,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #63 Luna 29"
+    },
+    "Wong Wing_202606251209_Page_3": {
+      "resource": "/Room 2/Wong Wing_202606251209_Page_3.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[-12.733,-14.838,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #64 Luna 30"
+    },
+    "Wong Wing_202606251209_Page_4": {
+      "resource": "/Room 2/Wong Wing_202606251209_Page_4.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[14.804,-9.342,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #65 Luna 31"
+    },
+    "Wong Wing_202606251209_Page_5": {
+      "resource": "/Room 2/Wong Wing_202606251209_Page_5.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[-14.797,9.003,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #66 Luna 32"
+    },
+    "Wong Wing_202606251209_Page_6": {
+      "resource": "/Room 2/Wong Wing_202606251209_Page_6.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[14.804,-12.570,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #67 Luna 33"
+    },
+    "Wong Wing_202606251209_Page_7": {
+      "resource": "/Room 2/Wong Wing_202606251209_Page_7.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.77",
+      "location": "[-14.797,12.378,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #68 Luna 34"
+    },
+    "root": {
+      "resource": "root.glb",
+      "resource_type": "door"
+    }
+  },
+  "Technical": {
+    "ambientLight": 0.5,
+    "pointLight": 50,
+    "show_plaques": true
+  }
+}
